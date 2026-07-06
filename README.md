@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:020024,35:090979,70:00D4FF,100:7C3AED&text=Pakinthon%20Chalermchai&fontSize=48&fontColor=FFFFFF&animation=fadeIn&stroke=00D9FF&strokeWidth=1&desc=Mechatronics%20Engineering%20%7C%20AI%20x%20Embedded%20Systems%20%7C%20Control%20%7C%20PLC%20%7C%20Automation&descSize=16&descAlignY=68" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020024,25:0f3460,55:00d4ff,100:7c3aed&text=Pakinthon%20Chalermchai&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mechatronics%20Engineering%20%7C%20AI%20x%20Embedded%20Systems%20%7C%20Control%20%7C%20PLC%20%7C%20Automation&descAlignY=60&descSize=16" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=00D9FF&center=true&vCenter=true&width=1000&lines=Mechatronics+Engineering+Student+at+KMUTT;Modernizing+ordinary+systems+with+AI+%2B+ML+%2B+Dashboards;Building+systems+that+reduce+costs+and+increase+business+value;ESP32-S3+%7C+Sensors+%7C+PLC+%7C+Control+%7C+Automation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=700&color=00D9FF&center=true&vCenter=true&width=1000&lines=Mechatronics+Engineering+Student+at+KMUTT;Building+smarter+systems+with+AI%2C+ML%2C+Dashboards%2C+and+Automation;Turning+ordinary+engineering+systems+into+high-value+solutions;Focused+on+cost+reduction%2C+efficiency%2C+and+business+impact" />
 </p>
 
 <p align="center">
@@ -18,158 +18,176 @@
   <img src="https://img.shields.io/badge/Control%20Systems-FF9800?style=flat-square" />
   <img src="https://img.shields.io/badge/PLC%20Automation-00C853?style=flat-square" />
   <img src="https://img.shields.io/badge/Smart%20Monitoring-00D9FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Business%20Impact-FF4081?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-FF4081?style=flat-square" />
+  <img src="https://img.shields.io/badge/Business%20Impact-FF6B6B?style=flat-square" />
 </p>
 
 ---
 
 ## ⚡ About Me
 
-```json
-{
-  "name": "Pakinthon Chalermchai",
-  "role": "Mechatronics Engineering Student",
-  "university": "King Mongkut's University of Technology Thonburi (KMUTT)",
-  "gpax": "3.71",
-  "current_standing": "1st in Mechatronics Engineering cohort",
-  "engineering_identity": "Modernizing ordinary engineering systems with AI, ML, dashboards, alerts, and automation.",
-  "mission": "Apply university knowledge and self-learning skills to build practical systems that reduce company costs, improve efficiency, and create business value.",
-  "main_focus": [
-    "AI x Embedded Systems",
-    "Machine Learning for Monitoring Systems",
-    "Dashboard and Data Visualization",
-    "Real-time Alert Systems",
-    "PLC and Industrial Automation",
-    "Hardware-to-Software Integration",
-    "Cost Reduction and Process Improvement"
-  ]
-}
+I am a **Mechatronics Engineering student at KMUTT** who enjoys transforming **ordinary engineering systems** into **modern, intelligent, and more valuable systems** by adding:
+
+- **AI / Machine Learning**
+- **Dashboards & Data Visualization**
+- **Alert Systems**
+- **Automation Workflows**
+- **Embedded & Hardware Integration**
+
+> My goal is to combine what I learn from university with self-taught modern technologies to build systems that **reduce company costs**, **improve efficiency**, and **increase business value**.
+
+---
+
+## 🎯 Engineering Identity
+
+```txt
+Normal system
+   ↓
+Add sensors / control / data / dashboard / alerts / AI
+   ↓
+Smarter system
+   ↓
+Lower cost + better decisions + higher operational value
 ```
-
-<p align="center">
-  <b>
-    I enjoy transforming normal engineering systems into smarter, more useful, and more impressive systems by adding AI, ML, dashboards, alerts, and automation.
-  </b>
-</p>
-
-<p align="center">
-  <i>
-    My goal is to combine what I learn from university with self-taught modern technologies to build systems that help companies reduce costs, increase efficiency, and generate more value.
-  </i>
-</p>
 
 ---
 
 ## 🚀 Featured Engineering Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🧠 1) AI Industrial Gauge Reader
 
-## 🧠 AI Industrial Gauge Reader
+An embedded AI system for reading industrial gauge values and resistor color codes using **ESP32-S3**, **camera vision**, **Gemini AI**, **Telegram alerts**, **OLED display**, and **speaker warning**.
 
-An embedded AI monitoring system for reading industrial gauge values and resistor color codes using ESP32-S3, camera vision, cloud AI, Telegram alerting, OLED display, and speaker warning.
+```mermaid
+flowchart LR
+    A[Industrial Gauge] --> B[ESP32-S3 + OV5640 Camera]
+    B --> C[Gemini Vision AI]
+    C --> D[Gauge Value + Status]
+    D --> E[Telegram Alert]
+    D --> F[OLED Display]
+    D --> G[Speaker Warning]
+```
 
-### 🔧 What I Built
+### 🔧 What I built
 - ESP32-S3 based embedded system  
-- OV5640 camera module for gauge image capture  
-- Gemini AI API for visual gauge analysis  
-- Telegram Bot API for command and alert notification  
-- OLED I2C display for local status output  
-- I2S speaker alert system for danger conditions  
-- Resistor color-code calculator through Telegram input  
+- OV5640 camera for gauge capture  
+- Gemini AI API for image analysis  
+- Telegram Bot API for remote alerting  
+- OLED I2C display for local output  
+- I2S speaker for danger alert  
+- Resistor color-code calculator flow  
 
-### 💼 Business Value
+### 💼 Business value
 - Reduces human reading errors  
-- Enables remote monitoring  
 - Speeds up abnormal-condition detection  
-- Supports future predictive maintenance  
+- Supports remote monitoring  
+- Provides a path toward predictive maintenance  
 
-### 🧩 Engineering Stack
+### 🧩 Stack
 `ESP32-S3` `OV5640` `Gemini AI` `Telegram API` `I2C` `I2S` `HTTPS` `JSON`
 
-### 🔥 Next Development
-- TinyML model deployment on embedded hardware  
-- OpenCV-based gauge detection on PC  
-- Local ML model for more stable image processing  
+### 🔥 Next step
+- TinyML deployment  
+- OpenCV-based gauge detection  
+- More local / edge AI processing  
 
-</td>
-<td width="50%" valign="top">
+---
 
-## 🌡️ Mini Room Telemetry System
+## 🌡️ 2) Mini Server Room Monitoring
 
-A room monitoring and telemetry system for tracking environmental conditions, filtering sensor data, detecting abnormal behavior, and sending remote alerts.
+A smart environmental monitoring system for tracking **temperature**, **humidity**, and **abnormal conditions** with **filtering**, **dashboard visualization**, and **alert logic**.
 
-### 🔧 What I Built
+```mermaid
+flowchart LR
+    A[Sensors] --> B[Raw Data]
+    B --> C[Moving Average Filter]
+    C --> D[Dashboard]
+    C --> E[Z-score / Rate Change]
+    E --> F[Anomaly Detection]
+    F --> G[Telegram Alert]
+```
+
+### 🔧 What I built
 - Temperature and humidity monitoring  
-- Sensor data acquisition and filtering  
-- Real-time dashboard visualization  
-- Telegram alert system  
+- Raw vs filtered data comparison  
+- Moving average filtering  
+- Water leak alert logic  
 - Z-score based anomaly detection  
-- Foundation for future ML anomaly detection  
+- Dashboard visualization  
+- Telegram notification flow  
 
-### 💼 Business Value
-- Detects abnormal environmental conditions  
-- Reduces manual checking  
+### 💼 Business value
+- Reduces manual inspection  
+- Detects problems earlier  
 - Improves visibility through dashboards  
-- Supports data-driven maintenance decisions  
+- Helps create data-driven maintenance decisions  
 
-### 🧩 Engineering Stack
-`Sensors` `Dashboard` `Data Filtering` `Z-score` `Telegram Alert` `Telemetry`
+### 🧩 Stack
+`Sensors` `Dashboard` `Moving Average Filter` `Z-score` `Anomaly Detection` `Telegram Alert`
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%" valign="top">
+## 🎛️ 3) PID Web Control Simulator
 
-## 🎛️ PID Web Control Simulator
+A web-based PID dashboard for visualizing **control response**, **manual tuning**, **auto PID tuning**, and engineering performance metrics before real-world implementation.
 
-A web-based control simulator for studying PID tuning, system response, and controller behavior.
+```mermaid
+flowchart LR
+    A[Target Speed] --> B[PID Controller]
+    B --> C[Voltage Command]
+    C --> D[DC Motor Model]
+    D --> E[Actual Speed]
+    E --> F[Feedback]
+    F --> B
+```
 
-### 🔧 What I Built
-- Adjustable Kp, Ki, and Kd parameters  
+### 🔧 What I built
+- Adjustable **Kp / Ki / Kd**  
 - Manual PID tuning mode  
 - Auto PID tuning mode  
 - Step response visualization  
-- Overshoot and settling time comparison  
-- Stability observation  
+- Error / Voltage / Current / Torque graphs  
+- Disturbance load simulation  
+- PID term visualization  
 
-### 💼 Business Value
-- Helps visualize control behavior  
-- Reduces trial-and-error tuning time  
-- Supports better understanding before real hardware testing  
-- Useful for learning, training, and prototyping  
+### 💼 Business value
+- Helps tune control before using hardware  
+- Reduces trial-and-error time  
+- Makes system behavior easier to analyze  
+- Useful for learning, prototyping, and engineering design  
 
-### 🧩 Engineering Stack
-`PID` `Control Systems` `JavaScript` `HTML` `CSS` `Simulation`
+### 🧩 Stack
+`PID Control` `Control Systems` `Dashboard` `Simulation` `HTML` `CSS` `JavaScript`
 
-</td>
-<td width="50%" valign="top">
+---
 
-## 🔁 n8n Facebook Auto Post Workflow
+## 🔁 4) n8n Facebook Auto Post Workflow
 
-An automation workflow for posting content to Facebook and updating post status automatically in Google Sheets.
+An automation workflow for posting content automatically to Facebook and updating status in Google Sheets.
 
-### 🔧 What I Built
+```mermaid
+flowchart LR
+    A[Google Sheets] --> B[n8n Workflow]
+    B --> C[Prepare Content]
+    C --> D[Post to Facebook]
+    D --> E[Update Posted Status]
+```
+
+### 🔧 What I built
 - n8n workflow automation  
-- Facebook auto-posting workflow  
 - Google Sheets integration  
-- Automatic post-status update  
-- Reduced repetitive manual operation  
+- Facebook post automation  
+- Automatic status update  
+- Reduced repetitive manual work  
 
-### 💼 Business Value
-- Saves repetitive manual work  
-- Reduces human error in content tracking  
+### 💼 Business value
+- Saves time  
+- Reduces human error  
 - Improves workflow consistency  
-- Supports scalable digital operations  
+- Supports scalable content operations  
 
-### 🧩 Engineering Stack
+### 🧩 Stack
 `n8n` `Google Sheets` `Facebook` `API Integration` `Workflow Automation`
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -179,29 +197,28 @@ An automation workflow for posting content to Facebook and updating post status 
 <tr>
 <td width="50%" valign="top">
 
-## 🤖 AI, ML & Automation
-
-- Prompt Engineering for technical problem solving  
-- AI-assisted coding, debugging, and documentation  
-- OpenAI Codex and GitHub Copilot workflow  
+### 🤖 AI, ML & Automation
+- Prompt Engineering  
+- AI-assisted coding / debugging / documentation  
+- OpenAI Codex & GitHub Copilot workflow  
 - Local LLM deployment using Ollama  
-- Basic RAG workflow for private knowledge-base querying  
-- Machine Learning concept for anomaly detection  
-- n8n automation workflow design  
-- Applying AI tools to embedded, web, and automation projects  
+- Basic RAG workflow  
+- ML concept for anomaly detection  
+- n8n workflow design  
+- Applying AI to engineering systems  
 
 </td>
 <td width="50%" valign="top">
 
-## ⚙️ Embedded Systems & Hardware Integration
-
+### ⚙️ Embedded Systems & Hardware Integration
 - ESP32 / ESP32-S3 development  
 - Sensor interfacing and data acquisition  
-- Camera module integration  
-- OLED / display module integration  
-- I2C, I2S, GPIO, HTTPS, JSON communication  
+- Camera integration  
+- OLED / display integration  
+- I2C, I2S, GPIO  
+- HTTPS / JSON / API communication  
 - Speaker and alert module integration  
-- Able to connect sensors, displays, camera modules, and external hardware into working systems  
+- Able to connect sensors, displays, and external hardware into working systems  
 
 </td>
 </tr>
@@ -209,28 +226,27 @@ An automation workflow for posting content to Facebook and updating post status 
 <tr>
 <td width="50%" valign="top">
 
-## 🏭 PLC & Industrial Automation
-
+### 🏭 PLC & Industrial Automation
 - PLC programming using Ladder Diagram  
-- Familiar with Omron / Mitsubishi PLC platforms  
-- Industrial automation logic design  
-- Input / output control concept  
-- Sequential control thinking  
+- Omron / Mitsubishi PLC familiarity  
+- Sequential control logic  
+- Input / output control  
+- Industrial automation thinking  
 - Experience teaching PLC fundamentals to students  
-- Able to explain automation logic clearly to beginners  
+- Able to explain PLC logic clearly to beginners  
 
 </td>
 <td width="50%" valign="top">
 
-## 🎛️ Control Systems & Signal Processing
-
-- PID control theory and tuning  
-- Manual and auto PID tuning concepts  
+### 🎛️ Control Systems & Signal Processing
+- PID control theory  
+- Manual and auto PID tuning  
 - Step response analysis  
-- Overshoot and settling time evaluation  
+- Overshoot / settling time evaluation  
 - Moving Average Filter  
-- Low-pass / Exponential Smoothing Filter  
-- Median Filter for sensor noise reduction  
+- Low-pass / Exponential Smoothing  
+- Median Filter  
+- Noise reduction and signal conditioning  
 
 </td>
 </tr>
@@ -238,29 +254,27 @@ An automation workflow for posting content to Facebook and updating post status 
 <tr>
 <td width="50%" valign="top">
 
-## 🔋 Robotics Hardware & Practical Wiring
-
-- Robotics hardware wiring experience from TRCC robotics club  
-- Hands-on experience with robot electrical assembly  
-- Battery selection for mobile robotic platforms  
-- Wire cutting, crimping, soldering, and connector preparation  
-- Basic power distribution for robot systems  
-- DIY hardware troubleshooting and on-site modification  
-- Practical understanding of building competition robots under real constraints  
+### 🔋 Robotics Hardware & Practical Wiring
+- TRCC robotics club experience  
+- Robot electrical wiring  
+- Battery selection for robot systems  
+- Wire cutting, crimping, soldering, connector preparation  
+- DIY modification and troubleshooting  
+- Practical power distribution understanding  
+- Experience building competition robots under real constraints  
 
 </td>
 <td width="50%" valign="top">
 
-## ⚡ Electrical, Power & Circuit Systems
-
-- Electrical circuit analysis  
+### ⚡ Electrical, Power & Circuit Systems
+- Circuit analysis  
 - Thevenin’s / Norton’s Theorem  
 - Three-phase motor wiring  
-- Star-Delta motor starter circuit  
+- Star-Delta motor starter  
 - Inrush current reduction concept  
 - Electrical drawing reading  
-- Basic power system and load calculation  
-- Hands-on motor wiring laboratory experience  
+- Basic power / load calculation  
+- Motor wiring lab experience  
 
 </td>
 </tr>
@@ -268,8 +282,7 @@ An automation workflow for posting content to Facebook and updating post status 
 <tr>
 <td width="50%" valign="top">
 
-## 📊 Engineering Statistics & Data Analytics
-
+### 📊 Engineering Statistics & Data Analytics
 - Descriptive Statistics  
 - ANOVA  
 - Duncan's Multiple Range Test  
@@ -285,16 +298,15 @@ An automation workflow for posting content to Facebook and updating post status 
 </td>
 <td width="50%" valign="top">
 
-## 🏗️ Manufacturing, CAD & Fabrication
-
+### 🏗️ Manufacturing, CAD & Fabrication
 - Manual milling machine operation  
-- Face Milling, Angular Milling, and Side Milling  
+- Face / Angular / Side Milling  
 - TIG / MIG / SMAW welding theory  
 - Autodesk Inventor 3D modeling  
 - Mechanical drawing interpretation  
 - Electrical drawing interpretation  
 - Hydraulic and Pneumatic fundamentals  
-- Hands-on fabrication mindset from robotics and competition project work  
+- Hands-on fabrication mindset from robotics and project work  
 
 </td>
 </tr>
@@ -314,17 +326,17 @@ An automation workflow for posting content to Facebook and updating post status 
 <td align="center" width="25%">
   <h2>02</h2>
   <b>Increase Efficiency</b>
-  <p>Improve visibility, speed, and decision-making through dashboards, alerts, and data analysis.</p>
+  <p>Improve speed and visibility through dashboards, alerts, and better engineering decisions.</p>
 </td>
 <td align="center" width="25%">
   <h2>03</h2>
   <b>Prevent Problems</b>
-  <p>Apply statistics, anomaly detection, and monitoring systems to detect issues before they become serious.</p>
+  <p>Apply monitoring, analytics, and anomaly detection to catch issues before they become serious.</p>
 </td>
 <td align="center" width="25%">
   <h2>04</h2>
   <b>Create Business Value</b>
-  <p>Turn engineering systems into tools that support better operations, productivity, and revenue opportunities.</p>
+  <p>Turn engineering systems into tools that improve operations, productivity, and future revenue opportunities.</p>
 </td>
 </tr>
 </table>
@@ -333,24 +345,13 @@ An automation workflow for posting content to Facebook and updating post status 
 
 ## 🏆 Academic Highlights
 
-<table>
-<tr>
-<td align="center" width="33%">
-  <h2>3.71</h2>
-  <b>GPAX</b>
-</td>
-<td align="center" width="33%">
-  <h2>1st</h2>
-  <b>Mechatronics Engineering Cohort</b>
-</td>
-<td align="center" width="33%">
-  <h2>KMUTT</h2>
-  <b>Mechatronics Engineering</b>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/GPAX-3.71-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Standing-1st%20in%20Mechatronics%20Engineering-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/University-KMUTT-F97316?style=for-the-badge" />
+</p>
 
-### Courses I Am Proud Of
+### Courses / Areas I am proud of
 
 | Area | Highlights |
 |---|---|
