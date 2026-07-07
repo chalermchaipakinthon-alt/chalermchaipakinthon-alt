@@ -106,12 +106,18 @@ A monitoring system that combines **sensor data**, **moving average filtering**,
 - Improves visibility through dashboard  
 - Supports better maintenance decisions  
 
+<p>
+  <a href="https://github.com/chalermchaipakinthon-alt/mini-server-room-monitoring">
+    <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 </td>
 </tr>
 
 <tr>
 <td width="50%" valign="top">
-
+  
 ## 🎛️ PID Web Control Simulator
 
 <p>
