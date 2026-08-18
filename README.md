@@ -1,21 +1,24 @@
-# 👋 Hi, I'm Pakinthon Chalermchai
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:1f2937,50:2563eb,100:38bdf8&text=Pakinthon%20Chalermchai&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Mechatronics%20Engineering%20Student%20%40%20KMUTT&descAlignY=60&descSize=17" />
+</p>
 
-### Mechatronics Engineering Student @ KMUTT
+<p align="center">
+  <b>Embedded Systems • Automation • Control • Engineering Monitoring</b>
+</p>
 
-**Embedded Systems • Automation • Control • Engineering Monitoring**
-
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/GPAX-3.71-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/KMUTT-Mechatronics%20Engineering-F97316?style=flat-square" />
+  <img src="https://img.shields.io/badge/Year-3rd%20Year-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/KMUTT-Mechatronics-F97316?style=flat-square" />
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a **3rd-year Mechatronics Engineering student at King Mongkut's University of Technology Thonburi (KMUTT)**.
+I am a **3rd-year Mechatronics Engineering student at King Mongkut's University of Technology Thonburi (KMUTT)**.
 
-I enjoy building practical engineering systems that integrate **hardware, software, control, automation, and intelligent monitoring**. I'm particularly interested in engineering development roles where I can strengthen my fundamentals and gain experience with real industrial systems.
+I enjoy integrating **hardware, embedded software, control, automation, and monitoring systems** into practical engineering applications. I am especially interested in engineering development roles where I can strengthen my fundamentals, work with real systems, and continue learning through hands-on projects.
 
 ---
 
@@ -23,42 +26,43 @@ I enjoy building practical engineering systems that integrate **hardware, softwa
 
 ## 📷 AI-Based Industrial Gauge / Resistor Monitoring System
 
-> Embedded monitoring system integrating camera sensing, hardware interfaces, web control, notifications, and AI-assisted image analysis.
+> Embedded monitoring project combining camera sensing, web control, local feedback, notifications, and AI-assisted image analysis.
 
 **Core Technologies**
 
 `ESP32-S3` · `OV5640` · `C/C++` · `Gemini API` · `Web Interface` · `Telegram` · `OLED` · `I2S`
 
-### What I Built
+### Engineering Highlights
 
-- Integrated an **ESP32-S3 and OV5640 camera** for image capture and monitoring.
-- Developed a web interface for camera preview and system control.
-- Used the **Gemini API** to assist with industrial gauge image analysis.
+- Integrated an **ESP32-S3 + OV5640 camera** for image capture and monitoring.
+- Developed a local web interface for preview and system control.
+- Used the **Gemini API** for industrial gauge image analysis.
 - Implemented resistor color-band detection and resistance calculation.
-- Integrated **OLED status display**, **Telegram notifications**, and **I2S audio alerts**.
+- Added OLED status display, Telegram notifications, and I2S audio alerts.
+- Combined hardware, software, networking, and AI-assisted processing into one embedded workflow.
 
-**Engineering focus:** Embedded systems, hardware/software integration, monitoring, and practical AI-assisted engineering applications.
+**Focus:** Embedded systems, system integration, monitoring, and practical AI applications in engineering.
 
 ---
 
 ## 🌡️ [Mini Server Room Monitoring](https://github.com/chalermchaipakinthon-alt/mini-server-room-monitoring)
 
-> Personal environmental monitoring system for sensor visualization, abnormal-condition detection, logging, and remote alerts.
+> Personal monitoring system for environmental sensing, visualization, abnormal-condition detection, logging, and remote alerts.
 
 **Core Technologies**
 
 `ESP32` · `Python` · `Flask` · `HTTP / JSON` · `Chart.js` · `Telegram` · `CSV`
 
-### What I Built
+### Engineering Highlights
 
-- Collected temperature, humidity, and water-leak sensor data using ESP32.
-- Sent sensor readings to a Flask server through **HTTP / JSON**.
-- Built a web dashboard for monitoring sensor values and system status.
-- Applied a **moving average** to reduce noise in sensor readings.
-- Used basic statistical anomaly detection with **Z-score and rate-of-change checks**.
-- Added incident logging and Telegram alerts.
+- Collected temperature, humidity, and water-leak data using ESP32 sensors.
+- Sent sensor readings to a Flask server through HTTP / JSON.
+- Built a dashboard for real-time system monitoring.
+- Applied a **moving average filter** to reduce sensor noise.
+- Used **basic statistical anomaly detection** with Z-score and rate-of-change checks.
+- Added incident logging, water-leak logic, and Telegram alerts.
 
-This project was developed with significant assistance from AI coding tools. My focus was on understanding the **system architecture, integration between components, and fundamental statistical concepts** rather than advanced machine learning.
+> Developed with significant assistance from AI coding tools. My focus is on understanding the overall architecture, system integration, and basic statistical principles rather than advanced machine learning.
 
 [View Repository →](https://github.com/chalermchaipakinthon-alt/mini-server-room-monitoring)
 
@@ -66,19 +70,28 @@ This project was developed with significant assistance from AI coding tools. My 
 
 ## 🧪 Other Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🎛️ PID Web Control Simulator
 
-A learning-oriented web simulator for experimenting with PID parameters and observing system response.
+Learning-oriented simulator for experimenting with PID parameters and observing system response.
 
-`PID Control` · `Step Response` · `Kp / Ki / Kd` · `Engineering Simulation`
+`PID Control` · `Step Response` · `Kp / Ki / Kd` · `Simulation`
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🔁 n8n Facebook Automation Workflow
 
-A small workflow automation project connecting Facebook posting and Google Sheets status tracking.
+Small workflow automation project connecting Facebook posting with Google Sheets status tracking.
 
 `n8n` · `Google Sheets` · `API Integration` · `Workflow Automation`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -88,35 +101,60 @@ A small workflow automation project connecting Facebook posting and Google Sheet
 <tr>
 <td width="50%" valign="top">
 
-### Programming
-
+### 💻 Programming & Engineering Computing
 - C / C++
 - Python
 - MATLAB
+- Basic HTML / CSS / JavaScript
+- Engineering calculations and simulation
 
-### Embedded / Hardware
-
+### 🔌 Embedded Systems
 - ESP32 / ESP32-S3
 - Sensor interfacing
 - Camera integration
-- I2C / I2S / GPIO
+- OLED / display integration
+- GPIO
+- I2C
+- I2S
+- Serial communication fundamentals
+
+### 🌐 Software & System Integration
+- HTTP / HTTPS
+- JSON
+- REST API integration
+- Telegram Bot API
+- Flask fundamentals
+- Basic web dashboards
+- Git / GitHub
 
 </td>
 <td width="50%" valign="top">
 
-### Automation / Control
-
+### 🏭 Automation & Control
 - PLC Ladder Logic
+- Sequential control fundamentals
+- Digital I/O logic
 - Basic industrial automation
-- PID / Control fundamentals
-- Sequential control concepts
+- PID control fundamentals
+- Step-response concepts
+- Overshoot / settling-time fundamentals
 
-### Software / Integration
+### 📊 Data & Monitoring
+- Sensor data acquisition
+- Moving average filtering
+- Median / basic filtering concepts
+- Descriptive statistics
+- Z-score fundamentals
+- Basic anomaly detection
+- Data logging
 
-- HTTP / JSON / REST APIs
-- Telegram Bot integration
-- Basic web dashboards
-- Git / GitHub
+### ⚡ Electrical / Mechanical Fundamentals
+- Basic circuit analysis
+- Three-phase systems fundamentals
+- Motor control concepts
+- Hydraulic & pneumatic fundamentals
+- Mechanical drawing interpretation
+- Autodesk Inventor fundamentals
 
 </td>
 </tr>
@@ -128,8 +166,7 @@ A small workflow automation project connecting Facebook posting and Google Sheet
 
 ### B.Eng. Mechatronics Engineering
 
-**King Mongkut's University of Technology Thonburi (KMUTT)**
-
+**King Mongkut's University of Technology Thonburi (KMUTT)**  
 Current **GPAX: 3.71**
 
 ---
@@ -144,18 +181,23 @@ Helped introduce students to basic **PLC concepts and Ladder Logic** during an a
 
 # 📚 Currently Learning
 
-`Control Systems` · `Industrial Automation` · `Python for Engineering` · `Computer Vision / AI Applications`
+<p>
+  <img src="https://img.shields.io/badge/Control%20Systems-Learning-334155?style=flat-square" />
+  <img src="https://img.shields.io/badge/Industrial%20Automation-Learning-334155?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python%20for%20Engineering-Learning-334155?style=flat-square" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-Learning-334155?style=flat-square" />
+</p>
 
 ---
 
 # 📫 Contact
 
-<p>
+<p align="center">
   <a href="mailto:chalermchaipakinthon@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-chalermchaipakinthon%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/chalermchaipakinthon-alt">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-chalermchaipakinthon--alt-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
