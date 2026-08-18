@@ -16,11 +16,13 @@
 
 ## 👨‍💻 About Me
 
-I am a **3rd-year Mechatronics Engineering student at King Mongkut's University of Technology Thonburi (KMUTT)**.
+## 👨‍💻 About Me
 
-I enjoy integrating **hardware, embedded software, control, automation, and monitoring systems** into practical engineering applications. I am especially interested in engineering development roles where I can strengthen my fundamentals, work with real systems, and continue learning through hands-on projects.
+I am a **3rd-year Mechatronics Engineering student at King Mongkut's University of Technology Thonburi (KMUTT)** with a strong interest in **engineering development, embedded systems, automation, control, and intelligent monitoring systems**.
 
----
+I am a fast learner who enjoys exploring new technologies and unfamiliar engineering topics. I like challenging problems that require me to learn quickly, connect ideas from different fields, and turn them into practical working solutions.
+
+I enjoy learning by doing, experimenting with new approaches, and working on difficult tasks more than repetitive work with fixed solutions.
 
 # 🔧 Featured Engineering Projects
 
