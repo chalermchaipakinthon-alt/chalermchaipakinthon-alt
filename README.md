@@ -16,8 +16,6 @@
 
 ## 👨‍💻 About Me
 
-## 👨‍💻 About Me
-
 I’m a 3rd-year Mechatronics Engineering student at KMUTT interested in engineering development, embedded systems, automation, and control.
 
 I’m a fast learner who enjoys exploring new technologies and challenging problems. I learn best by building, experimenting, and connecting knowledge from different engineering fields to create practical solutions.
