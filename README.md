@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Embedded Systems • Automation • Control • Engineering Monitoring</b>
+  <b>Industrial Automation • Smart Manufacturing • Embedded Systems • Engineering Monitoring</b>
 </p>
 
 <p align="center">
