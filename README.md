@@ -40,12 +40,13 @@ I enjoy learning new technologies and solving practical engineering problems, wi
 - Added OLED status display, Telegram notifications, and I2S audio alerts.
 - Combined hardware, software, networking, and AI-assisted processing into one embedded workflow.
 
-**Focus:** Industrial monitoring, Embedded systems, system integration, and practical AI applications in engineering.
+**Focus:** Industrial monitoring, embedded systems, system integration, and practical AI applications in engineering.
 
-[View Repository →](https://github.com/chalermchaipakinthon-alt/mini-server-room-monitoring)
+[View Repository →](https://github.com/chalermchaipakinthon-alt/ai-industrial-gauge-resistor-monitoring)
+
 ---
 
-## 🌡️ [Mini Server Room Monitoring]([https://github.com/chalermchaipakinthon-alt/mini-server-room-monitorin](https://github.com/chalermchaipakinthon-alt/ai-industrial-gauge-resistor-monitoring)
+## 🌡️ [Mini Server Room Monitoring](https://github.com/chalermchaipakinthon-alt/mini-server-room-monitoring)
 
 > Personal monitoring system for environmental sensing, visualization, abnormal-condition detection, logging, and remote alerts.
 
@@ -65,6 +66,8 @@ I enjoy learning new technologies and solving practical engineering problems, wi
 > Developed with significant assistance from AI coding tools. My focus is on understanding the overall architecture, system integration, and basic statistical principles rather than advanced machine learning.
 
 [View Repository →](https://github.com/chalermchaipakinthon-alt/mini-server-room-monitoring)
+
+---
 
 ---
 
