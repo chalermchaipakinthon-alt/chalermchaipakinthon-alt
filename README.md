@@ -170,16 +170,6 @@ Current **GPAX: 3.71**
 
 ---
 
-# 📚 Currently Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Control%20Systems-Learning-334155?style=flat-square" />
-  <img src="https://img.shields.io/badge/Industrial%20Automation-Learning-334155?style=flat-square" />
-  <img src="https://img.shields.io/badge/Python%20for%20Engineering-Learning-334155?style=flat-square" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-Learning-334155?style=flat-square" />
-</p>
-
----
 
 # 📫 Contact
 
