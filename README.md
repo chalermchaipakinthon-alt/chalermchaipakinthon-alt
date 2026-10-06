@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a 3rd-year Mechatronics Engineering student at KMUTT interested in engineering development, embedded systems, industrial automation, and smart manufacturing.
+I’m a 3rd-year Mechatronics Engineering student at KMUTT interested in process improvement, embedded systems, industrial automation, and smart manufacturing.
 
 I enjoy learning new technologies and solving practical engineering problems, with hands-on experience in embedded systems, monitoring, sensors, and automation projects.
 
