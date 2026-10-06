@@ -42,6 +42,7 @@ I enjoy learning new technologies and solving practical engineering problems, wi
 
 **Focus:** Industrial monitoring, Embedded systems, system integration, and practical AI applications in engineering.
 
+[View Repository →]([https://github.com/chalermchaipakinthon-alt/mini-server-room-monitoring](https://github.com/chalermchaipakinthon-alt/ai-industrial-gauge-resistor-monitoring)
 ---
 
 ## 🌡️ [Mini Server Room Monitoring](https://github.com/chalermchaipakinthon-alt/mini-server-room-monitoring)
