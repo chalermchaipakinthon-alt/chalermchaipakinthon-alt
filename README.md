@@ -23,7 +23,7 @@ I enjoy learning new technologies and solving practical engineering problems, wi
 
 # 🔧 Featured Engineering Projects
 
-## 📷 AI-Based Industrial Gauge / Resistor Monitoring System
+## 📷 [AI-Based Industrial Gauge / Resistor Monitoring System](https://github.com/chalermchaipakinthon-alt/ai-industrial-gauge-resistor-monitoring)
 
 > Embedded monitoring project combining camera sensing, web control, local feedback, notifications, and AI-assisted image analysis.
 
