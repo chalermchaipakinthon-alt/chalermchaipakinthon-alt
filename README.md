@@ -16,9 +16,10 @@
 
 ## 👨‍💻 About Me
 
-I’m a 3rd-year Mechatronics Engineering student at KMUTT interested in engineering development, embedded systems, automation, and control.
+I’m a 3rd-year Mechatronics Engineering student at KMUTT interested in engineering development, embedded systems, industrial automation, and smart manufacturing.
 
-I’m a fast learner who enjoys exploring new technologies and challenging problems. I learn best by building, experimenting, and connecting knowledge from different engineering fields to create practical solutions.
+I enjoy learning new technologies and solving practical engineering problems, with hands-on experience in embedded systems, monitoring, sensors, and automation projects.
+
 
 # 🔧 Featured Engineering Projects
 
@@ -39,7 +40,7 @@ I’m a fast learner who enjoys exploring new technologies and challenging probl
 - Added OLED status display, Telegram notifications, and I2S audio alerts.
 - Combined hardware, software, networking, and AI-assisted processing into one embedded workflow.
 
-**Focus:** Embedded systems, system integration, monitoring, and practical AI applications in engineering.
+**Focus:** Industrial monitoring, Embedded systems, system integration, and practical AI applications in engineering.
 
 ---
 
@@ -133,7 +134,7 @@ Small workflow automation project connecting Facebook posting with Google Sheets
 - Sequential control fundamentals
 - Digital I/O logic
 - Basic industrial automation
-- PID control fundamentals
+- PID control concept
 - Step-response concepts
 - Overshoot / settling-time fundamentals
 
@@ -169,14 +170,6 @@ Current **GPAX: 3.71**
 
 ---
 
-# 👨‍🏫 Activities
-
-### Academic Camp Staff — PLC Fundamentals
-
-Helped introduce students to basic **PLC concepts and Ladder Logic** during an academic camp activity.
-
----
-
 # 📚 Currently Learning
 
 <p>
@@ -202,5 +195,5 @@ Helped introduce students to basic **PLC concepts and Ladder Logic** during an a
 ---
 
 <p align="center">
-  <b>Mechatronics • Embedded Systems • Automation • Engineering Development</b>
+  <b>Mechatronics • Industrial Automation • Smart Manufacturing • Embedded Systems</b>
 </p>
